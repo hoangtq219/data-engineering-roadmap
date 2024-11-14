@@ -3,45 +3,10 @@ Data Engineering:
     - Python
     - Java
     - Scala
-    - Go
-    - Rust
   Operating System:
     - Linux
     - Windows
     - Other UNIX distributions
-  Networking:
-    Protocols:
-      - HTTP/HTTPS
-      - TCP/IP
-      - UDP
-      - SSH
-      - DNS
-    Concepts:    
-      - VPN
-      - Firewalls
-  General Software Engineering skills:
-    - Data Structures and Algorithms
-    - Basic Authentication and Authorization: |
-        OAuth
-        JWT
-        etc.
-    - Learn about APIs: |
-          GraphQL
-          REST
-          gRPC 
-    - Caching
-  Web Frameworks and API Development:
-    Python:
-      - Flask
-      - Django
-      - FastAPI
-    Rust:
-      - Rocket
-    Go:
-      - Fiber
-      - Gin
-    Java:
-      - SpringBoot
   Testing:
     - Unit Testing
     - Integration Testing
@@ -84,32 +49,13 @@ Data Engineering:
     NoSQL:
       Columnar:
         - Clickhouse
-        - Apache Pinot
-        - Apache Druid
-        - Apache HBase
-        - Apache Cassandra
         - Amazon Redshift
       Document Based:
         - MongoDB
         - Elasticsearch
-        - Couchbase
       Key-Value:
         - Redis
         - Amazon DynamoDB
-      Time-series:
-        - Timescaledb
-        - Prometheus
-        - InfluxDB
-      Vector:
-        - Milvus
-        - QDrant
-        - Pinecone
-      Graph:
-        - Neo4j
-        - Microsoft Azure Cosmos DB
-      NewSQL:
-        - Google Spanner
-        - CockroachDB
   Data Modeling:
     - Star Schema (Ralph Kimball)
     - Snowflake
@@ -160,13 +106,10 @@ Data Engineering:
       - Data Build Tool (dbt)
     Hybrid:
       - Apache Spark
-      - Apache Beam
       - Apache Flink
       - Apache Nifi
     Stream:
       - Apache Kafka
-      - Apache Storm
-      - Apache Samza
       - Amazon Kinesis
   Pipeline Orchestration:
     - Apache Airflow
@@ -176,9 +119,7 @@ Data Engineering:
     - Argo
   Messaging and Streaming Platform:
     - Apache Kafka
-    - NATS
     - RabbitMQ
-    - Apache Pulsar
   Data Governance:
     - Data Availability
     - Data Quality:
